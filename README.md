@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harini Palanisamy!  
 
-## 🚀 About Me  
+##  About Me  
 - 🎓 **Founder of Infront of Us** | **Aspiring Cloud Engineer**  
 - 💻 **2nd Year Student at Vel Tech HighTech**  
 - 🌱 Passionate about **Cloud Computing, AI, and Career Guidance**  
